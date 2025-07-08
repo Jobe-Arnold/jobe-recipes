@@ -1,0 +1,54 @@
+body {
+    width: 550px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+    background-color: rgb(255 253 208)
+}
+
+h2 {
+    text-align: left;
+    padding: 3px;
+    border-bottom: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
+
+p {
+    background-color: rgb(255 253 208);
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
+
+ul, ol {
+    line-height: 20px;
+    text-align: left;
+    background-color: rgb(255 253 208);
+}
+
+.outer {
+    list-style-position: inside;
+    box-sizing: border-box;
+    border-bottom: 2px solid grey;
+    padding: 10px;
+}
+
+figure {
+    display: block;
+    text-align: center;
+}
+
+button {
+    margin-bottom: 20px;
+}
+
+div {
+    text-align: center;
+}
